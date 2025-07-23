@@ -7,7 +7,8 @@ A dynamic **Tableau dashboard** designed to analyze retail sales from a fictiona
 <h2 align="center">📸 Dashboard Preview</h2>
 
 <p align="center">
-<img width="1366" height="633" alt="SuperStore Dashboard" src="https://github.com/USER-NAME/REPO-NAME/raw/main/sales.png" />
+<img width="1366" height="633" alt="SuperStore Dashboard" src="<img width="1366" height="625" alt="Screenshot 2025-07-21 064456" src="https://github.com/user-attachments/assets/e9dfa05a-4c48-4dd5-bca8-01c20eafee64" />
+" />
 </p>
 
 <p align="center"><i>
