@@ -7,7 +7,8 @@ A dynamic **Tableau dashboard** designed to analyze retail sales from a fictiona
 <h2 align="center">📸 Dashboard Preview</h2>
 
 <p align="center">
-<img width="1366" height="633" alt="SuperStore Dashboard" src="<img width="1366" height="625" alt="Screenshot 2025-07-21 064456" src="https://github.com/user-attachments/assets/e9dfa05a-4c48-4dd5-bca8-01c20eafee64" />
+<img width="1366" height="633" alt="SuperStore Dashboard" src="<img width="1366" <img width="1366" height="625" alt="Screenshot 2025-07-21 064456" src="https://github.com/user-attachments/assets/4e8fc958-6e41-44d2-a643-ba83a27d06a7" />
+" />
 " />
 </p>
 
@@ -48,6 +49,6 @@ This dashboard provides a visual summary of total sales, profit, quantity, and c
 ##  Interactive Dashboard
 
 Explore the full interactive dashboard here:  
-🔗 **[View on Tableau Public](https://public.tableau.com/views/YOUR-DASHBOARD-LINK)**
+🔗 **[View on Tableau Public](https://public.tableau.com/views/superstore_17530687346030/Dashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 
